@@ -1,7 +1,26 @@
 md5
 ===
 
+
 用c++实现md5算法.
+
+
+开发平台
+========
+
+
+Ubuntu14.04
+
+
+运行
+====
+
+
+sudo get-apt install g++
+
+make
+
+./md5_test
 
 
 md5简介
