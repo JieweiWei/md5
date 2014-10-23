@@ -9,7 +9,7 @@
  */
 
 #include <iostream>
-#include "md5.h"
+#include "../src/md5.h"
 
 using std::cout;
 using std::endl;
